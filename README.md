@@ -42,5 +42,3 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 
 <br>  
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=panlord&show_icons=true&locale=en" alt="panlord" />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=panlord&label=Profile%20views&color=0e75b6&style=flat" alt="panlord" /> </p>
