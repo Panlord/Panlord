@@ -1,8 +1,10 @@
-<h1 align="center">Hi 🙋🏻‍♂️ I'm Aaron</h1>
-<h3 align="center">I like dinosaurs 🦖, Spider-Man 🕷, and spaghetti and meatballs 🍝.</h3>
+<h1 align="center">Hi! I'm Aaron</h1>
+<h3 align="center">I like dinosaurs 🦖, Spider-Man 🕷, and spaghetti 🍝.</h3>
 
-<h2 align="left">Some stuff I made</h2>
-<p><a href="https://github.com/Panlord/ESCapeFromKemper-WebGLBuild">ESCape From Kemper</a> - a single-player 3D horror game</p>
+<h3 align="left">I gamedev on the side: <a href="https://panlord.itch.io/">Itch.io</a></h3>
+<h2 align="left">Some stuff I made:</h2>
+<p><a href="https://panlord.itch.io/mommy-eat-my-baby">Mommy Eat My Baby</a> - a spooky GameBoy game from GBJam12</p>
+<p><a href="https://github.com/Panlord/ESCapeFromKemper-WebGLBuild">ESCape From Kemper</a> - a single-player first-person horror game</p>
 <p><a href="https://github.com/Panlord/Ketchup">Ketchup</a> - a browser game of captchas</p>
 
 <h2 align="left">Connect with me</h2>
